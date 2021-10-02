@@ -1,11 +1,11 @@
 # SwiftUI视频系列教程
 
-## 本套代码和视频配套使用。
+## 本套代码和视频配套使用
 ## 欢迎购买本套视频 
 
-SwiftUI视频系列教程由苏州丰源天下传媒有限公司出品，版权所有。
-
-Suzhou Fengyuan World Media Co.,Ltd
+#
+#### SwiftUI视频系列教程由<strong style="color: lightblue; opacity: 0.80;">苏州丰源天下传媒有限公司</strong>出品，版权所有。
+#### <strong style="color: lightblue; opacity: 0.80;">Suzhou Fengyuan World Media Co.,Ltd</strong>
 
 #
 | 视频平台 | 视频链接 | 
