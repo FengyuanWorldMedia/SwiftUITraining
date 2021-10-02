@@ -3,7 +3,7 @@
 ## 本套代码和视频配套使用。
 ## 欢迎购买本套视频 
 
-SwiftUI系列教程由苏州丰源天下传媒有限公司出品，版权所有。
+SwiftUI视频系列教程由苏州丰源天下传媒有限公司出品，版权所有。
 
 Suzhou Fengyuan World Media Co.,Ltd
 
