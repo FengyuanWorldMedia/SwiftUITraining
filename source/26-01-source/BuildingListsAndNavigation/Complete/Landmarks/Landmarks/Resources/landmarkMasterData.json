@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Turtle Rock",
+        "id": 1001,
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "id": 1002,
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "id": 1003,
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "id": 1004, 
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "id": 1005,
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald", 
+        "id": 1006, 
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers", 
+        "id": 1007, 
+        "imageName": "yukon_charleyrivers"
+    },
+    {
+        "name": "Icy Bay", 
+        "id": 1008, 
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "id": 1009,
+        "park": "State Recreation Area", 
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake", 
+        "id": 1010, 
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague", 
+        "id": 1011, 
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog", 
+        "id": 1012, 
+        "imageName": "umbagog"
+    }
+]

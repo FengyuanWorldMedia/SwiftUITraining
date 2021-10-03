@@ -63,4 +63,4 @@
 | 38    |     SwiftUI系列教程-第38讲_Dao接口和 WebApi接口定义 |   25-01-source    |
 | 39    |     SwiftUI系列教程-第39讲_Landmark实训 |   26-01-source    |
 | 40    |     SwiftUI系列教程-第40讲_IPA文件和真机调试 |   26-01-source    |
-| 41    |     SwiftUI系列教程-第41讲_使用XCode13的注意点 |   28-01-source    |
+| 41    |     SwiftUI系列教程-第41讲_使用Xcode13的注意点 |   28-01-source    |

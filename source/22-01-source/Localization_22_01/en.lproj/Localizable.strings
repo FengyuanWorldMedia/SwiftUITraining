@@ -1,0 +1,10 @@
+/* 
+  File.strings
+  Localization_22_01
+
+  Created by nnio on 2021/06/22.
+  
+*/
+"hello" = "hello";
+"good morning" = "good morning";
+"With parameter:%@" = "With parameter:%@";
