@@ -8,15 +8,9 @@
 #
 | 视频平台 | 视频链接 | 
 |:-----------|:------------|
-| 慕课网    |     [TDB](http://TDB.com "TDB") |
-| 虎课网    |     [TDB](http://TDB.com "TDB") |
-| 腾讯课堂    |     [TDB](http://TDB.com "TDB") |
-| Bilibili    |     [TDB](http://TDB.com "TDB") |
-| 爱奇艺    |     [TDB](http://TDB.com "TDB") |
-| 抖音    |     [TDB](http://TDB.com "TDB") |
-| Youku   |     [TDB](http://TDB.com "TDB") |
-| Youtube    |     [TDB](http://TDB.com "TDB") |
-| 湖南潭州教育    |     [TDB](http://TDB.com "TDB") |
+| 网易云课堂    |     [丰源天下传媒](http://TDB.com "TDB") |
+| 腾讯课堂    |     [丰源天下传媒](http://TDB.com "TDB") |
+| 抖音    |     [丰源天下传媒](http://TDB.com "TDB") |
 | 微信公众号    |     [TDB](http://TDB.com "TDB") |
  
 
