@@ -8,7 +8,7 @@
 #
 | 视频平台 | 视频链接 | 
 |:-----------|:------------|
-| 网易云课堂    |     [丰源天下传媒](http://TDB.com "TDB") |
+| 网易云课堂    |     [丰源天下传媒](https://study.163.com/course/introduction.htm?courseId=1212173805#/courseDetail?tab=1 "丰源天下传媒") |
 | 腾讯课堂    |     [丰源天下传媒](http://TDB.com "TDB") |
 | 抖音    |     [丰源天下传媒](http://TDB.com "TDB") |
 | 微信公众号    |     [TDB](http://TDB.com "TDB") |
